@@ -570,6 +570,12 @@ height: 50px;
 }
 .portfolio-wrap img{
   min-height: 220px;
+  width: 100%;
+  
+}
+#emails{
+  max-height: 340px;
+  object-fit: contain;
 }
 .portfolio .portfolio-wrap::before {
   content: "";
